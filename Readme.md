@@ -4,3 +4,4 @@
 - slice_operations.go -> slice and array operations
 - binary_searches.go -> binary search w/ recursion and insertion
 - word_frequency.go -> word frequency using maps
+- reverse_string.go -> reverse a string
