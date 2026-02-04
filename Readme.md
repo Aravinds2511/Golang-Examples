@@ -8,6 +8,7 @@
 - reverse_string.go -> reverse a string
 - temperature_convertor.go -> temperature convertor 
 - coin_change.go -> min coins and coins combination
+- palindrome_checker.go -> checks if a string is a palindrome
 
 ### Intermediate level
 - microservices_with_grpc -> microserviceish implementation with grpc (but uses http)
